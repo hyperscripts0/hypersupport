@@ -1,0 +1,29 @@
+{
+  "name": "hsDiscordBot",
+  "version": "1.0.0",
+  "description": "A custom Discord bot with ticket support, feedback system, and leaderboard for HyperScripts.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+{
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "support",
+    "ticket",
+    "feedback",
+    "leaderboard"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
